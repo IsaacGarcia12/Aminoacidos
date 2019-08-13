@@ -1,0 +1,2 @@
+# Aminoacidos
+TT 
